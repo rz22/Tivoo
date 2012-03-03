@@ -1,0 +1,5 @@
+This a README file for Tivoo GUI.
+
+My name is Ran Zhang (NetID: rz22).
+
+In the GUI, I use weekly view only. User can first load file (can also load multiple files by click the button multiple times). Then users can choose which kind of filter they want to use. I provide filter by keywords(both containing and not containing) and filter by time slot. Then users should press preview button to see the webpage, and can also click the link.
